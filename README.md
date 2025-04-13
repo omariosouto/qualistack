@@ -5,6 +5,7 @@
 - https://github.com/omariosouto/tsconfig
 - https://github.com/omariosouto/common-schema
 - https://github.com/omariosouto/common-http-client
+- https://github.com/omariosouto/common-ui-web
 
 ## Projects using
 - https://app-the-club.vercel.app/

@@ -13,6 +13,9 @@
 | ✅     | [common-ui-web](https://github.com/omariosouto/common-ui-web)                 | `[peers:@omariosouto/common-errors]`,`[peers:@omariosouto/common-core]`                                      |
 | 🚫     | [common-error-tracking](https://github.com/omariosouto/common-error-tracking) | `[peers:@omariosouto/common-errors]`,`[peers:@omariosouto/common-core]`                                      |
 
+## Integrations
+- https://github.com/omariosouto/microsaas-toolkit
+
 
 ## Projects using
 - https://app-the-club.vercel.app/
